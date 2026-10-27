@@ -1,0 +1,6 @@
+{
+  "name": "RIVALITÀ — L'Atlante del Calcio Mondiale",
+  "description": "Enciclopedia completa e ranking scientifico delle rivalità calcistiche mondiali nelle leghe classificate da Opta, ispirato al Futurismo Italiano degli anni '20.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
